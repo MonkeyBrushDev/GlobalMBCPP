@@ -1,0 +1,4 @@
+# -*- mode: cmake -*-
+git_subproject( mb https://github.com/MonkeyBrushDev/MonkeyBrushCpp.git master )
+git_subproject( examples https://github.com/MonkeyBrushDev/MonkeyBrushCppExamples.git master )
+git_subproject( mb_physics https://github.com/MonkeyBrushDev/MonkeyBrushCppPhysics.git master )
